@@ -2,5 +2,5 @@
 
 I wanna make my garden greener.
 
-![Eunchae's github stats](https://github-readme-stats.vercel.app/api?username=kec0130&show_icons=true&hide=issues,prs)
+![Eunchae's github stats](https://github-readme-stats.vercel.app/api?username=kec0130&show_icons=true&hide=issues&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kec0130&layout=compact)
